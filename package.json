@@ -1,0 +1,23 @@
+{
+  "name": "node_docker",
+  "version": "1.0.0",
+  "description": "Projeto exemplo de Docker e Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hardh/node_docker.git"
+  },
+  "author": "Alisson Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hardh/node_docker/issues"
+  },
+  "homepage": "https://github.com/Hardh/node_docker#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
